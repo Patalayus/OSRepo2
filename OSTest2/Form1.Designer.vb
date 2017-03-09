@@ -33,14 +33,14 @@ Partial Class Form1
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(129, 298)
+        Me.TextBox2.Location = New System.Drawing.Point(132, 282)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(178, 20)
         Me.TextBox2.TabIndex = 7
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(129, 271)
+        Me.TextBox1.Location = New System.Drawing.Point(132, 255)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(178, 20)
         Me.TextBox1.TabIndex = 6
@@ -49,7 +49,7 @@ Partial Class Form1
         '
         Me.PictureBox1.BackgroundImage = Global.OSTest2.My.Resources.Resources.nobody_m_original
         Me.PictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.PictureBox1.Location = New System.Drawing.Point(146, 119)
+        Me.PictureBox1.Location = New System.Drawing.Point(149, 113)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(143, 136)
         Me.PictureBox1.TabIndex = 5
@@ -61,7 +61,7 @@ Partial Class Form1
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Arial Rounded MT Bold", 26.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.White
-        Me.Label1.Location = New System.Drawing.Point(164, 66)
+        Me.Label1.Location = New System.Drawing.Point(167, 70)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(111, 40)
         Me.Label1.TabIndex = 4
@@ -81,9 +81,9 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(313, 297)
+        Me.Button1.Location = New System.Drawing.Point(316, 282)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(23, 20)
+        Me.Button1.Size = New System.Drawing.Size(22, 20)
         Me.Button1.TabIndex = 8
         Me.Button1.Text = ">"
         Me.Button1.UseVisualStyleBackColor = True
